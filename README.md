@@ -21,6 +21,7 @@ ALGORITHM :
 6.Stop the program
 
 PROGRAM :
+
 CLIENT:
 ```
 import socket
